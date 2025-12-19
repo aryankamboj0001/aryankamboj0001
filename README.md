@@ -1,4 +1,44 @@
-## Hi there 👋
+## Hi 👋 I'm Aryan
+
+🎓 Student | 📊 Data Analytics & Machine Learning Learner  
+
+---
+
+## 🔧 Skills
+
+### 📌 Programming & Analysis
+- Python (NumPy, Pandas, Matplotlib)
+- Machine Learning (Intermediate)
+- SQL (PostgreSQL)
+
+### 📊 Data Tools
+- Excel (Data Cleaning, Pivot Tables, Charts)
+- Power BI (Dashboards, DAX – Basics)
+
+### 💻 Other
+- Java (DSA)
+- Git & GitHub
+
+---
+
+## 📁 Projects
+
+- 📊 **IPL 2022 Data Analysis** – NumPy, Pandas, Matplotlib  
+- 🤖 **Machine Learning Projects** – Regression, Classification  
+- 📈 **Power BI Dashboards**  
+- 🧮 **SQL Practice (PostgreSQL)**  
+
+---
+
+## 🎯 Currently Learning
+- Advanced Machine Learning
+- Data Visualization
+- Real-world Datasets
+
+---
+
+📫 **GitHub:** [@aryankamboj0001](https://github.com/aryankamboj0001)
+
 
 <!--
 **aryankamboj0001/aryankamboj0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
