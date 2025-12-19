@@ -34,6 +34,7 @@
 - Advanced Machine Learning
 - Data Visualization
 - Real-world Datasets
+- Deep Learning
 
 ---
 
