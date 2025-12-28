@@ -7,7 +7,7 @@
 ## 🔧 Skills
 
 ### 📌 Programming & Analysis
-- Python (NumPy, Pandas, Matplotlib)
+- Python (NumPy, Pandas, Matplotlib,Seaborn)
 - Machine Learning (Intermediate)
 - SQL (PostgreSQL)
 
