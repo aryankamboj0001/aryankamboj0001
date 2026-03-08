@@ -87,13 +87,9 @@ Tech: PostgreSQL
 
 ## 📊 GitHub Stats
 
-<p align="center">
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryankamboj0001&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryankamboj0001&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankamboj0001&layout=compact&theme=tokyonight" />
-
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankamboj0001&layout=compact&theme=tokyonight)
 ---
 
 # 🎯 Currently Learning
