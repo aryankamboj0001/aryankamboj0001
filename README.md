@@ -2,69 +2,102 @@
 <h3 align="center">📊 Data Analytics & Machine Learning Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Data+Analytics+Learner;Machine+Learning+Enthusiast;Python+Developer;Power+BI+Dashboard+Creator">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Analytics+Learner;Machine+Learning+Enthusiast;Python+Developer;Power+BI+Dashboard+Creator">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 Student passionate about **Data Analytics and Machine Learning**  
+🎓 Student passionate about **Data Analytics & Machine Learning**  
 📊 Love working with **data, dashboards, and predictive models**  
-🚀 Currently improving skills in **Machine Learning & Deep Learning**  
-💡 Interested in solving real-world problems using **data**
+🚀 Currently learning **Advanced ML and Deep Learning**
 
 ---
 
-## 🔧 Skills
+# 🛠️ Tools & Technologies
 
-### 💻 Programming
-- Python (NumPy, Pandas, Matplotlib, Seaborn)
-- Java (DSA)
-- SQL (PostgreSQL)
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### 📊 Data Tools
-- Excel (Data Cleaning, Pivot Tables, Charts)
-- Power BI (Dashboards, DAX – Basics)
+### Data Analysis
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge)
 
-### 🤖 Machine Learning
-- Regression
-- Classification
-- Model Evaluation
+### Machine Learning
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
 
----
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
-## 📁 Projects
+### Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 
-📊 **IPL 2022 Data Analysis**  
-- Tools: NumPy, Pandas, Matplotlib  
-- Explored match statistics and player performance
-
-🤖 **Machine Learning Projects**  
-- Regression & Classification models  
-- Data preprocessing and evaluation
-
-📈 **Power BI Dashboards**  
-- Interactive dashboards for data visualization
-
-🧮 **SQL Practice (PostgreSQL)**  
-- Data queries and database operations
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-## 📈 GitHub Stats
+# 📁 Projects
+
+## 🎬 Movie Recommendation System
+- Built a **content-based movie recommender**
+- Used **TF-IDF and Cosine Similarity**
+- Implemented **NLP preprocessing**
+- Created **interactive UI using Streamlit**
+
+**Tech Used**
+Python, Pandas, Scikit-learn, NLP, Streamlit
+
+---
+
+## 📊 IPL 2022 Data Analysis
+- Performed **data analysis and visualization**
+- Explored **player and match statistics**
+
+Tech: NumPy, Pandas, Matplotlib
+
+---
+
+## 🤖 Machine Learning Projects
+- Implemented **Regression & Classification models**
+- Data preprocessing and model evaluation
+
+Tech: Scikit-learn, Pandas
+
+---
+
+## 📈 Power BI Dashboards
+- Interactive dashboards
+- Data visualization using charts and KPIs
+
+---
+
+## 🧮 SQL Practice
+- Data querying
+- Database operations
+
+Tech: PostgreSQL
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryankamboj0001&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=aryankamboj0001&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankamboj0001&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankamboj0001&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🎯 Currently Learning
+# 🎯 Currently Learning
 
 - Advanced Machine Learning
 - Deep Learning
@@ -73,11 +106,11 @@
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-💻 GitHub:  
+💻 GitHub  
 https://github.com/aryankamboj0001
 
 ---
 
-⭐ From [Aryan](https://github.com/aryankamboj0001)
+⭐ From Aryan
