@@ -113,3 +113,7 @@ https://github.com/aryankamboj0001
 ---
 
 ⭐ From Aryan
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/aryankamboj0001/aryankamboj0001/output/github-contribution-grid-snake.svg)
