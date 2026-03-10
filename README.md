@@ -98,8 +98,8 @@ Tech: PostgreSQL
 
 # 📫 Connect With Me
 
-💻 GitHub  
-https://github.com/aryankamboj0001
+💻 Linkedin  
+https://www.linkedin.com/in/aryankamboj0001
 
 ---
 
