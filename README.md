@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Hey,%20I'm%20Aryan%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=42&desc=Data%20Analytics%20%26%20Machine%20Learning%20Enthusiast&descAlignY=65&descSize=17" width="100%"/>
+# Hi, I'm Aryan 👋
+### 📊 Data Analytics & Machine Learning Enthusiast
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Data+Analytics+Learner+📊;Machine+Learning+Enthusiast+🤖;Python+Developer+🐍;Power+BI+Dashboard+Creator+📈;Always+learning+something+new+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=550&lines=Data+Analytics+Learner+📊;Machine+Learning+Enthusiast+🤖;Python+Developer+🐍;Power+BI+Dashboard+Creator+📈;Always+learning+something+new+🚀" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -41,8 +42,10 @@ aryan = {
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge&logo=python&logoColor=white)
 
-### 🤖 Machine Learning
+### 🤖 Machine Learning & Deep Learning
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -61,18 +64,30 @@ aryan = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎬 Movie Recommendation System
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/aryankamboj0001/Movie-Recommendation-System)
-[![Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=flat-square&logo=streamlit)](https://movie-recommendation-system-e4r7rtpgnlr8yrq6taxhqh.streamlit.app/)
+[![Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://movie-recommendation-system-e4r7rtpgnlr8yrq6taxhqh.streamlit.app/)
 
-Content-based movie recommender using **TF-IDF + Cosine Similarity** with NLP preprocessing, IMDb & YouTube API integration.
+Content-based movie recommender using **TF-IDF + Cosine Similarity** with NLP preprocessing, IMDb & YouTube API integration, and an interactive Streamlit UI.
 
 `Python` `Scikit-learn` `NLP` `Streamlit` `FastAPI`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+### 💻 Laptop Price Prediction
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/aryankamboj0001)
+
+Predicted laptop prices using an **Artificial Neural Network (ANN)**. Achieved strong results with R² ≈ **85%** and MSE ≈ **14,000** through feature engineering and model tuning.
+
+`Python` `TensorFlow` `Keras` `ANN` `Pandas`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏏 IPL 2022 Data Analysis
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/aryankamboj0001)
@@ -82,9 +97,7 @@ In-depth analysis of player & match statistics with rich visual storytelling usi
 `NumPy` `Pandas` `Matplotlib` `Seaborn`
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 Machine Learning Projects
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/aryankamboj0001)
@@ -94,7 +107,9 @@ Regression & classification models with full data preprocessing and evaluation p
 `Scikit-learn` `Pandas` `Python`
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📊 Power BI Dashboards
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/aryankamboj0001)
@@ -102,6 +117,16 @@ Regression & classification models with full data preprocessing and evaluation p
 Interactive business dashboards with KPIs, charts, and data storytelling.
 
 `Power BI` `DAX` `Data Visualization`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧮 SQL Practice
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/aryankamboj0001)
+
+Data querying and database operations for analytical problem-solving.
+
+`PostgreSQL` `SQL`
 
 </td>
 </tr>
@@ -152,6 +177,8 @@ Interactive business dashboards with KPIs, charts, and data storytelling.
 
 *"Data is the new oil — and I'm learning to refine it."* 🛢️✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+<br/>
+
+⭐ **If you like my work, consider starring my repos!**
 
 </div>
